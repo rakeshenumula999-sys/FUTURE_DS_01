@@ -1,0 +1,6 @@
+Order_ID,Product,Category,Region,Quantity,Unit_Price,Revenue
+101,Laptop,Electronics,North,2,50000,100000
+102,Mobile,Electronics,South,5,15000,75000
+103,Headphones,Accessories,East,10,2000,20000
+104,Tablet,Electronics,West,3,30000,90000
+105,Smartwatch,Accessories,North,4,8000,32000
